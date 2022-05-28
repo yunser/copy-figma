@@ -1,0 +1,10 @@
+{
+    "name": "Grid Copy",
+    "id": "1112341549325276309",
+    "api": "1.0.0",
+    "main": "dist/code.js",
+    "editorType": [
+        "figma"
+    ],
+    "ui": "dist/index.html"
+}
